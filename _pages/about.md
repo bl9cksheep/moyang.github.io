@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a third-year undergraduate student at <font color=blue>Beihang University(Beijing University of Aeronautics and Astronautics)</font>.
+Hi! I am a third-year undergraduate student at <font color=#AFDDFF>Beihang University(Beijing University of Aeronautics and Astronautics)</font>.
 
 My research interests include:
 + Multimedia Content Understanding
@@ -26,7 +26,7 @@ My research interests include:
   
 <a href='https://scholar.google.com/citations?user=_NICS5EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Google Scholar Citations">
 
-<font color=red>I'm currently applying for a PhD position for Fall 2026</font>. Feel free to contact me if you're interested in my research or just want to chat!
+<font color=#FF9A9A>I'm currently applying for a PhD position for Fall 2026</font>. Feel free to contact me if you're interested in my research or just want to chat!
 
 My Email: <moyang_liu@buaa.edu.cn>
 
