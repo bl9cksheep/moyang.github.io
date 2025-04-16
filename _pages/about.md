@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+<br/>
 Hi! I am a third-year undergraduate student at <font color=DodgerBlue>Beihang University</font>(Beijing University of Aeronautics and Astronautics).
 
 My research interests include:
