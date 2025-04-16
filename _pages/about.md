@@ -24,9 +24,11 @@ My research interests include:
 + Multimodal Representation Learning
 + Misinformation Detection
   
-<img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 
 I'm currently applying for a PhD position for Fall 2026. Feel free to contact me if you're interested in my research or just want to chat!
+
+My Email: <moyang_liu@buaa.edu.cn>
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
