@@ -24,7 +24,7 @@ My research interests include:
 + Multimodal Representation Learning
 + Misinformation Detection
   
-<a href='https://scholar.google.com/citations?user=_NICS5EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
+<a href='https://scholar.google.com/citations?user=_NICS5EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Google Scholar Citations">
 
 I'm currently applying for a PhD position for Fall 2026. Feel free to contact me if you're interested in my research or just want to chat!
 
