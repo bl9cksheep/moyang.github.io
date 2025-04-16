@@ -17,13 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a third-year undergraduate student at Beihang University.
+Hi! I am a third-year undergraduate student at Beihang University(Beijing University of Aeronautics and Astronautics).
 
 My research interests include:
 + Multimedia Content Understanding
 + Multimodal Representation Learning
-+ Misinformation Detection 
-<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
++ Misinformation Detection
+  
+<img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 I'm currently applying for a PhD position for Fall 2026. Feel free to contact me if you're interested in my research or just want to chat!
 
