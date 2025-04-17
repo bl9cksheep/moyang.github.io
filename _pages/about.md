@@ -33,50 +33,52 @@ My Email: <moyang_liu@buaa.edu.cn>
 # 📝 Publications 
 
 - \[**ArXiv**\]
-  <span style="font-size: 1.15em; font-family: 'Palatino', 'Georgia', serif; color: #2a2a2a;">
+  <span style="font-size: 1.2em; font-family: 'Palatino', 'Georgia', serif; color: #2a2a2a;">
     Deconfounded Reasoning for Multimodal Fake News Detection via Causal Intervention
   </span>
 
     <strong><u>Moyang Liu</u></strong>, Kaiying Yan, Yukun Liu, Ruibo Fu, Zhengqi Wen, Xuefei Liu, Chenxing Li
   
-    \[<a href="https://arxiv.org/abs/2504.09163" style="color: CornflowerBlue; text-decoration: none;">🔗Paper Link</a>\]
+    \[<a href="https://arxiv.org/abs/2504.09163" style="color: CornflowerBlue; text-decoration: none;">🔗Paper Link</a>\] Under Review, 2025
   
 - \[**ArXiv**\]
-  <span style="font-size: 1.15em; font-family: 'Palatino', 'Georgia', serif; color: #2a2a2a;">
+  <span style="font-size: 1.2em; font-family: 'Palatino', 'Georgia', serif; color: #2a2a2a;">
     Exploring Modality Disruption in Multimodal Fake News Detection
   </span>
 
     <strong><u>Moyang Liu</u></strong>, Kaiying Yan, Yukun Liu, Ruibo Fu, Zhengqi Wen, Xuefei Liu, Chenxing Li
   
-    \[<a href="https://arxiv.org/abs/2504.09154" style="color: CornflowerBlue; text-decoration: none;">🔗Paper Link</a>\]
+    \[<a href="https://arxiv.org/abs/2504.09154" style="color: CornflowerBlue; text-decoration: none;">🔗Paper Link</a>\] Under Review, 2025 
 
 - \[**ICASSP 2025**\]
-  <span style="font-size: 1.15em; font-family: 'Palatino', 'Georgia', serif; color: #2a2a2a;">
+  <span style="font-size: 1.2em; font-family: 'Palatino', 'Georgia', serif; color: #2a2a2a;">
     MTPareto: A MultiModal Targeted Pareto Framework for Fake News Detection
   </span>
 
     Kaiying Yan, <strong><u>Moyang Liu</u></strong>, Yukun Liu, Ruibo Fu, Zhengqi Wen, Jianhua Tao, Xuefei Liu, Guanjun Li
   
     \[<a href="https://arxiv.org/abs/2501.06764" style="color: CornflowerBlue; text-decoration: none;">🔗Paper Link</a>\]
+    2025 IEEE International Conference on Acoustics, Speech, and Signal Processing
 
 - \[**ISCSLP 2024**\]
-  <span style="font-size: 1.15em; font-family: 'Palatino', 'Georgia', serif; color: #2a2a2a;">
+  <span style="font-size: 1.2em; font-family: 'Palatino', 'Georgia', serif; color: #2a2a2a;">
     Exploring the Role of Audio in Multimodal Misinformation Detection
   </span>
 
     <strong><u>Moyang Liu</u></strong>, Yukun Liu, Ruibo Fu, Zhengqi Wen, Jianhua Tao, Xuefei Liu, Guanjun Li
   
     \[<a href="https://ieeexplore.ieee.org/abstract/document/10800162" style="color: CornflowerBlue; text-decoration: none;">🔗Paper Link</a>\]
+    2024 IEEE 14th International Symposium on Chinese Spoken Language Processing
 
 - \[**NeurIPS 2024 Workshop**\]
-  <span style="font-size: 1.15em; font-family: 'Palatino', 'Georgia', serif; color: #2a2a2a;">
+  <span style="font-size: 1.2em; font-family: 'Palatino', 'Georgia', serif; color: #2a2a2a;">
     MisD-MoE: A Multimodal Misinformation Detection Framework with Adaptive Feature Selection
   </span>
 
     <strong><u>Moyang Liu</u></strong>, Kaiying Yan, Yukun Liu, Ruibo Fu, Zhengqi Wen, Xuefei Liu, Chenxing Li
   
     \[<a href="https://neurips2024-enlsp.github.io/papers/paper_36.pdf" style="color: CornflowerBlue; text-decoration: none;">🔗Paper Link</a>\]
-
+    2024 NeurIPS Efficient Natural Language and Speech Processing Workshop
 
 
 # 🎖 Honors and Awards
