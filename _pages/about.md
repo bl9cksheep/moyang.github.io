@@ -40,6 +40,7 @@ My Email: <moyang_liu@buaa.edu.cn>
     <strong><u>Moyang Liu</u></strong>, Kaiying Yan, Yukun Liu, Ruibo Fu, Zhengqi Wen, Xuefei Liu, Chenxing Li
   
     \[<a href="https://arxiv.org/abs/2504.09163" style="color: CornflowerBlue; text-decoration: none;">🔗Paper Link</a>\] Under Review, 2025
+<br/>
 <br/> 
 - \[**ArXiv**\]
   <span style="font-size: 1.2em; font-family: 'Palatino', 'Georgia', serif; color: #2a2a2a;">
@@ -49,7 +50,7 @@ My Email: <moyang_liu@buaa.edu.cn>
     <strong><u>Moyang Liu</u></strong>, Kaiying Yan, Yukun Liu, Ruibo Fu, Zhengqi Wen, Xuefei Liu, Chenxing Li
   
     \[<a href="https://arxiv.org/abs/2504.09154" style="color: CornflowerBlue; text-decoration: none;">🔗Paper Link</a>\] Under Review, 2025
-  
+<br/>
 <br/>
 - \[**ICASSP 2025**\]
   <span style="font-size: 1.2em; font-family: 'Palatino', 'Georgia', serif; color: #2a2a2a;">
@@ -60,7 +61,8 @@ My Email: <moyang_liu@buaa.edu.cn>
   
     \[<a href="https://arxiv.org/abs/2501.06764" style="color: CornflowerBlue; text-decoration: none;">🔗Paper Link</a>\]
     2025 IEEE International Conference on Acoustics, Speech, and Signal Processing
-
+<br/>
+<br/>
 - \[**ISCSLP 2024**\]
   <span style="font-size: 1.2em; font-family: 'Palatino', 'Georgia', serif; color: #2a2a2a;">
     Exploring the Role of Audio in Multimodal Misinformation Detection
