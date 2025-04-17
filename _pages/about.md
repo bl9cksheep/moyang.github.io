@@ -41,7 +41,8 @@ My Email: <moyang_liu@buaa.edu.cn>
   
     \[<a href="https://arxiv.org/abs/2504.09163" style="color: CornflowerBlue; text-decoration: none;">🔗Paper Link</a>\] Under Review, 2025
 <br/>
-<br/> 
+<br/>
+<span style="display: block; margin-top: 6px;"></span>
 - \[**ArXiv**\]
   <span style="font-size: 1.2em; font-family: 'Palatino', 'Georgia', serif; color: #2a2a2a;">
     Exploring Modality Disruption in Multimodal Fake News Detection
