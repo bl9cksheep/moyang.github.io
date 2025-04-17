@@ -87,10 +87,10 @@ My Email: <moyang_liu@buaa.edu.cn>
 
 # 🎖 Selected Honors 
 
-- ***Special Prize***, Academic Competition Scholarship, Beihang University, 2023
-- ***Special Prize***, Innovation and Entrepreneurship Scholarship, Beihang University, 2024
+- ***Grand Prize***, Academic Competition Scholarship, Beihang University, 2023
+- ***Grand Prize***, Innovation and Entrepreneurship Scholarship, Beihang University, 2024
 - ***Second Prize***, Academic Scholarship, Beihang University, 2023
-- ***Special Prize (National Level)***, The 19th “Challenge Cup” National College Student Academic and Technological Innovation Competition for University Students, 2024
+- ***Grand Prize (National Level)***, The 19th “Challenge Cup” National College Student Academic and Technological Innovation Competition for University Students, 2024
 - ***First Prize***, The 14th National Undergraduate Mathematics Competition, 2022
 
 
