@@ -32,8 +32,8 @@ My Email: <moyang_liu@buaa.edu.cn>
 
 # 📝 Publications 
 
-- <span style="font-size: 1.1em; font-family: 'Palatino', 'Georgia', serif; color: #2a2a2a;">
-    <strong>[arXiv]</strong> Deconfounded Reasoning for Multimodal Fake News Detection via Causal Intervention
+- <span style="font-size: 1.15em; font-family: 'Palatino', 'Georgia', serif; color: #2a2a2a;">
+   [ArXiv] Deconfounded Reasoning for Multimodal Fake News Detection via Causal Intervention
   </span>
 
     **Moyang Liu**, Kaiying Yan, Yukun Liu, Ruibo Fu, Zhengqi Wen, Xuefei Liu, Chenxing Li
