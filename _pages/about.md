@@ -32,7 +32,7 @@ My Email: <moyang_liu@buaa.edu.cn>
 
 # 📝 Publications 
 
-- <span style="font-size: 1.1em; font-family: 'Georgia', serif; color: #2a2a2a;">
+- <span style="font-size: 1.1em; font-family: 'Palatino', 'Georgia', serif; color: #2a2a2a;">
     <strong>[arXiv]</strong> Deconfounded Reasoning for Multimodal Fake News Detection via Causal Intervention
   </span>
 
