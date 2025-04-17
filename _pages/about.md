@@ -50,7 +50,7 @@ My Email: <moyang_liu@buaa.edu.cn>
   
     \[<a href="https://arxiv.org/abs/2504.09154" style="color: CornflowerBlue; text-decoration: none;">🔗Paper Link</a>\]
 
-  - \[**ICASSP 2025**\]
+- \[**ICASSP 2025**\]
   <span style="font-size: 1.15em; font-family: 'Palatino', 'Georgia', serif; color: #2a2a2a;">
     MTPareto: A MultiModal Targeted Pareto Framework for Fake News Detection
   </span>
@@ -59,7 +59,7 @@ My Email: <moyang_liu@buaa.edu.cn>
   
     \[<a href="https://arxiv.org/abs/2501.06764" style="color: CornflowerBlue; text-decoration: none;">🔗Paper Link</a>\]
 
-  - \[**ISCSLP 2024**\]
+- \[**ISCSLP 2024**\]
   <span style="font-size: 1.15em; font-family: 'Palatino', 'Georgia', serif; color: #2a2a2a;">
     Exploring the Role of Audio in Multimodal Misinformation Detection
   </span>
@@ -68,7 +68,7 @@ My Email: <moyang_liu@buaa.edu.cn>
   
     \[<a href="https://ieeexplore.ieee.org/abstract/document/10800162" style="color: CornflowerBlue; text-decoration: none;">🔗Paper Link</a>\]
 
-  - \[**NeurIPS 2024 Workshop**\]
+- \[**NeurIPS 2024 Workshop**\]
   <span style="font-size: 1.15em; font-family: 'Palatino', 'Georgia', serif; color: #2a2a2a;">
     MisD-MoE: A Multimodal Misinformation Detection Framework with Adaptive Feature Selection
   </span>
