@@ -39,19 +39,44 @@ My Email: <moyang_liu@buaa.edu.cn>
 
     <strong><u>Moyang Liu</u></strong>, Kaiying Yan, Yukun Liu, Ruibo Fu, Zhengqi Wen, Xuefei Liu, Chenxing Li
   
-    \[<a href="https://arxiv.org/abs/2504.09163" style="color: CornflowerBlue; text-decoration: none;">🔗 Paper Link</a>\]
-- \[**AAAI 2024**\] [Bad actor, good advisor: Exploring the role of large language models in fake news detection](https://github.com/ICTMCG/ARG)
+    \[<a href="https://arxiv.org/abs/2504.09163" style="color: CornflowerBlue; text-decoration: none;">🔗Paper Link</a>\]
+  
+- \[**ArXiv**\]
+  <span style="font-size: 1.15em; font-family: 'Palatino', 'Georgia', serif; color: #2a2a2a;">
+    Exploring Modality Disruption in Multimodal Fake News Detection
+  </span>
 
-  Beizhe Hu, Qiang Sheng, Juan Cao, Yuhui Shi, <u><font size=4>Yang Li</font></u>, Danding Wang, Peng Qi
+    <strong><u>Moyang Liu</u></strong>, Kaiying Yan, Yukun Liu, Ruibo Fu, Zhengqi Wen, Xuefei Liu, Chenxing Li
+  
+    \[<a href="https://arxiv.org/abs/2504.09154" style="color: CornflowerBlue; text-decoration: none;">🔗Paper Link</a>\]
 
-- \[**Arxiv**\] [For a more comprehensive evaluation of 6dof object pose tracking](https://arxiv.org/abs/2309.07796)
+  - \[**ICASSP 2025**\]
+  <span style="font-size: 1.15em; font-family: 'Palatino', 'Georgia', serif; color: #2a2a2a;">
+    MTPareto: A MultiModal Targeted Pareto Framework for Fake News Detection
+  </span>
 
-  <u><font size=4>Yang Li</font></u>, Fan Zhong, Xin Wang, Shuangbing Song, Jiachen Li, Xueying Qin, Changhe Tu
+    Kaiying Yan, <strong><u>Moyang Liu</u></strong>, Yukun Liu, Ruibo Fu, Zhengqi Wen, Jianhua Tao, Xuefei Liu, Guanjun Li
+  
+    \[<a href="https://arxiv.org/abs/2501.06764" style="color: CornflowerBlue; text-decoration: none;">🔗Paper Link</a>\]
 
+  - \[**ISCSLP 2024**\]
+  <span style="font-size: 1.15em; font-family: 'Palatino', 'Georgia', serif; color: #2a2a2a;">
+    Exploring the Role of Audio in Multimodal Misinformation Detection
+  </span>
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+    <strong><u>Moyang Liu</u></strong>, Yukun Liu, Ruibo Fu, Zhengqi Wen, Jianhua Tao, Xuefei Liu, Guanjun Li
+  
+    \[<a href="https://ieeexplore.ieee.org/abstract/document/10800162" style="color: CornflowerBlue; text-decoration: none;">🔗Paper Link</a>\]
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+  - \[**NeurIPS 2024 Workshop**\]
+  <span style="font-size: 1.15em; font-family: 'Palatino', 'Georgia', serif; color: #2a2a2a;">
+    MisD-MoE: A Multimodal Misinformation Detection Framework with Adaptive Feature Selection
+  </span>
+
+    <strong><u>Moyang Liu</u></strong>, Kaiying Yan, Yukun Liu, Ruibo Fu, Zhengqi Wen, Xuefei Liu, Chenxing Li
+  
+    \[<a href="https://neurips2024-enlsp.github.io/papers/paper_36.pdf" style="color: CornflowerBlue; text-decoration: none;">🔗Paper Link</a>\]
+
 
 
 # 🎖 Honors and Awards
