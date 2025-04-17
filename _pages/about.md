@@ -153,7 +153,6 @@ My Email: <moyang_liu@buaa.edu.cn>
 
 - 📘 **Mandarin Chinese** — Native
 - 📗 **English** — Fluent
-  <div style="margin-top: 10px;"></div>
   - *CET-4: 653 | CET-6: 604 | IELTS: preparing*
 - 📙 **Japanese** — Basic proficiency
 - 📕 **Korean** — Basic proficiency
