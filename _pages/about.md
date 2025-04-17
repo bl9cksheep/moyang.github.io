@@ -48,7 +48,8 @@ My Email: <moyang_liu@buaa.edu.cn>
 
     <strong><u>Moyang Liu</u></strong>, Kaiying Yan, Yukun Liu, Ruibo Fu, Zhengqi Wen, Xuefei Liu, Chenxing Li
   
-    \[<a href="https://arxiv.org/abs/2504.09154" style="color: CornflowerBlue; text-decoration: none;">🔗Paper Link</a>\] Under Review, 2025 
+    \[<a href="https://arxiv.org/abs/2504.09154" style="color: CornflowerBlue; text-decoration: none;">🔗Paper Link</a>\] Under Review, 2025
+  
 <br/>
 - \[**ICASSP 2025**\]
   <span style="font-size: 1.2em; font-family: 'Palatino', 'Georgia', serif; color: #2a2a2a;">
@@ -59,7 +60,7 @@ My Email: <moyang_liu@buaa.edu.cn>
   
     \[<a href="https://arxiv.org/abs/2501.06764" style="color: CornflowerBlue; text-decoration: none;">🔗Paper Link</a>\]
     2025 IEEE International Conference on Acoustics, Speech, and Signal Processing
-<br/>
+
 - \[**ISCSLP 2024**\]
   <span style="font-size: 1.2em; font-family: 'Palatino', 'Georgia', serif; color: #2a2a2a;">
     Exploring the Role of Audio in Multimodal Misinformation Detection
@@ -69,6 +70,7 @@ My Email: <moyang_liu@buaa.edu.cn>
   
     \[<a href="https://ieeexplore.ieee.org/abstract/document/10800162" style="color: CornflowerBlue; text-decoration: none;">🔗Paper Link</a>\]
     2024 IEEE 14th International Symposium on Chinese Spoken Language Processing
+<br/>
 <br/>
 - \[**NeurIPS 2024 Workshop**\]
   <span style="font-size: 1.2em; font-family: 'Palatino', 'Georgia', serif; color: #2a2a2a;">
