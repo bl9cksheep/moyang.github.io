@@ -26,13 +26,13 @@ My research interests include:
   
 <a href='https://scholar.google.com/citations?user=_NICS5EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Google Scholar Citations">
 
-<nobr><font color=Tomato>I'm currently applying for a PhD position for Fall 2026.</font> Feel free to contact me if you're interested in my research or just want to chat!</nobr>
+<nobr><font color=LightCoral>I'm currently applying for a PhD position for Fall 2026.</font> Feel free to contact me if you're interested in my research or just want to chat!</nobr>
 
 My Email: <moyang_liu@buaa.edu.cn>
 
 # 📝 Publications 
 
-- <font size=4>\[**Arxiv**\]</font> [<font size=4>Deconfounded Reasoning for Multimodal Fake News Detection via Causal Intervention</font>](https://arxiv.org/abs/2504.09163)
+- <font size=4>\[**Arxiv**\] [<font size=4>Deconfounded Reasoning for Multimodal Fake News Detection via Causal Intervention</font>](https://arxiv.org/abs/2504.09163)</font>
 
  **Moyang Liu**, Kaiying Yan, Yukun Liu, Ruibo Fu, Zhengqi Wen, Xuefei Liu, Chenxing Li
 
