@@ -85,9 +85,14 @@ My Email: <moyang_liu@buaa.edu.cn>
     2024 NeurIPS Efficient Natural Language and Speech Processing Workshop
 
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Selected Honors 
+
+- **Special Prize**, Academic Competition Scholarship, Beihang University, 2023
+- **Special Prize**, Innovation and Entrepreneurship Scholarship, Beihang University, 2024
+- **Second Prize**, Academic Scholarship, Beihang University, 2023
+- ***Special Prize*** (National Level), The 19th “Challenge Cup” Special Prize (National Level), The 19th China National “Challenge Cup” Academic and Technological Innovation Competition for University Students, 2024
+- ***First Prize***, The 14th Chinese Mathematics Competition, 2022
+
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
