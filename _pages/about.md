@@ -36,7 +36,7 @@ My Email: <moyang_liu@buaa.edu.cn>
    [ArXiv] Deconfounded Reasoning for Multimodal Fake News Detection via Causal Intervention
   </span>
 
-    **Moyang Liu**, Kaiying Yan, Yukun Liu, Ruibo Fu, Zhengqi Wen, Xuefei Liu, Chenxing Li
+    <u>**Moyang Liu**</u>, Kaiying Yan, Yukun Liu, Ruibo Fu, Zhengqi Wen, Xuefei Liu, Chenxing Li
 
 - \[**AAAI 2024**\] [Bad actor, good advisor: Exploring the role of large language models in fake news detection](https://github.com/ICTMCG/ARG)
 
