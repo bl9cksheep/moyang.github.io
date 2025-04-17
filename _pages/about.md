@@ -94,7 +94,7 @@ My Email: <moyang_liu@buaa.edu.cn>
 - <span style="color: #111111; font-weight: bold; font-style: italic;">First Prize</span>, The 14th National Undergraduate Mathematics Competition, 2022
 
 
-# 📖 Educations
+# 📖 Education and Internships
 <style>
   .edu-card {
     display: flex;
@@ -149,9 +149,10 @@ My Email: <moyang_liu@buaa.edu.cn>
   </div>
 </div>
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 🌐 Languages
+- **Mandarin Chinese** — Native  
+- **English** — Fluent (CET-4: 653, CET-6: 604, IELTS: preparing)  
+- **Japanese** — Basic proficiency  
+- **Korean** — Basic proficiency
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
