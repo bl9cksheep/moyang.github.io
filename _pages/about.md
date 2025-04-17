@@ -318,7 +318,7 @@ My Email: <moyang_liu@buaa.edu.cn>
 
 # 🎨 Interests
 
-- 🧗 Hiking & outdoor activities  
+- 🧗 Hiking &amp; outdoor activities  
 - 🥁 Playing drums  
 - ♟️ Playing Go (Weiqi)  
 - 🎞️ Animation (e.g. Kyoto Animation, Studio Ghibli)  
