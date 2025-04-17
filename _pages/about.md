@@ -90,13 +90,56 @@ My Email: <moyang_liu@buaa.edu.cn>
 - <span style="color: #111111; font-weight: bold; font-style: italic;">Grand Prize</span>, Academic Competition Scholarship, Beihang University, 2023
 - <span style="color: #111111; font-weight: bold; font-style: italic;">Grand Prize</span>, Innovation and Entrepreneurship Scholarship, Beihang University, 2024
 - <span style="color: #111111; font-weight: bold; font-style: italic;">Second Prize</span>, Academic Scholarship, Beihang University, 2023
-- <span style="color: #111111; font-weight: bold; font-style: italic;">Grand Prize</span>, The 19th “Challenge Cup” National College Student Academic and Technological Innovation Competition for University Students, 2024
+- <span style="color: #111111; font-weight: bold; font-style: italic;">Grand Prize (National Level)</span>, The 19th “Challenge Cup” National College Student Academic and Technological Innovation Competition for University Students, 2024
 - <span style="color: #111111; font-weight: bold; font-style: italic;">First Prize</span>, The 14th National Undergraduate Mathematics Competition, 2022
 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<style>
+  .edu-card {
+    display: flex;
+    align-items: flex-start;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 16px;
+    margin: 16px 0;
+    background-color: #fff;
+    font-family: sans-serif;
+    color: #222;
+  }
+
+  .edu-logo {
+    width: 70px;
+    height: 70px;
+    margin-right: 16px;
+    flex-shrink: 0;
+    border-radius: 8px;
+  }
+
+  .edu-content {
+    font-size: 14px;
+    line-height: 1.5;
+  }
+
+  .edu-content h3 {
+    margin: 0;
+    font-size: 16px;
+  }
+
+  .edu-content p {
+    margin: 4px 0;
+  }
+</style>
+
+<div class="edu-card">
+  <img class="edu-logo" src="logo.jpg" alt="University Logo">
+  <div class="edu-content">
+    <h3>Shanghai Jiao Tong University</h3>
+    <p>2022.09 – Present</p>
+    <p>Bachelor of Science in Mathematics with Honors, Zhiyuan College</p>
+    <p>Research Advisors: Prof. Shuai Li, Prof. Bao-Liang Lu, Prof. Wei-Long Zheng</p>
+  </div>
+</div>
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
