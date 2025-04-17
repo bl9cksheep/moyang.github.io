@@ -134,10 +134,9 @@ My Email: <moyang_liu@buaa.edu.cn>
 <div class="edu-card">
   <img class="edu-logo" src="/images/beihanglogo.jpg" alt="University Logo">
   <div class="edu-content">
-    <h3>Shanghai Jiao Tong University</h3>
+    <h3>Beihang University</h3>
     <p>2022.09 – Present</p>
-    <p>Bachelor of Science in Mathematics with Honors, Zhiyuan College</p>
-    <p>Research Advisors: Prof. Shuai Li, Prof. Bao-Liang Lu, Prof. Wei-Long Zheng</p>
+    <p>Bachelor of Engineering in Biomedical Engineering</p>
   </div>
 </div>
 
