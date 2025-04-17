@@ -132,7 +132,7 @@ My Email: <moyang_liu@buaa.edu.cn>
 </style>
 
 <div class="edu-card">
-  <img class="edu-logo" src="logo.jpg" alt="University Logo">
+  <img class="edu-logo" src="/images/beihanglogo.jpg" alt="University Logo">
   <div class="edu-content">
     <h3>Shanghai Jiao Tong University</h3>
     <p>2022.09 – Present</p>
