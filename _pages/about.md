@@ -37,6 +37,7 @@ My Email: <moyang_liu@buaa.edu.cn>
   </span>
 
     <u>**Moyang Liu**</u>, Kaiying Yan, Yukun Liu, Ruibo Fu, Zhengqi Wen, Xuefei Liu, Chenxing Li
+    <a href="https://arxiv.org/abs/2504.09163" style="color: #666666; text-decoration: none;">🔗 Paper Link</a>
 
 - \[**AAAI 2024**\] [Bad actor, good advisor: Exploring the role of large language models in fake news detection](https://github.com/ICTMCG/ARG)
 
